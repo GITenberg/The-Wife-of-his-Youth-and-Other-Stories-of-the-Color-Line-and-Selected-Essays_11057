@@ -1,0 +1,36 @@
+_repo: The-Wife-of-his-Youth-and-Other-Stories-of-the-Color-Line-and-Selected-Essays_11057
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesnutt, Charles W. (Charles Waddell)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '252'
+    url: http://www.gutenberg.org/2009/agents/252
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Chesnutt
+description: ''
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'American essays'
+- !lcsh 'Race awareness -- Fiction'
+- !lcsh 'Racism -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Racially mixed people -- Fiction'
+- GITenberg
+tableOfContents: 'The wife of his youth -- Her Virginia mammy -- The sheriff''s children
+  -- A matter of principle -- Cicely''s dream -- The passing of Grandison -- Uncle
+  Wellington''s wives -- The bouquet -- The web of circumstance -- Three essays on
+  the color line: What is a white man? The future American. The disfranchisement of
+  the Negro.'
+title: The Wife of his Youth and Other Stories of the Color Line, and Selected Essays
+url: http://www.gutenberg.org/ebooks/11057
