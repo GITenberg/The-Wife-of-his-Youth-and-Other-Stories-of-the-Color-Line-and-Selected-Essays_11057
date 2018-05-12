@@ -1,5 +1,8 @@
 _repo: The-Wife-of-his-Youth-and-Other-Stories-of-the-Color-Line-and-Selected-Essays_11057
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesnutt, Charles W. (Charles Waddell)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/252
     wikipedia: http://en.wikipedia.org/wiki/Charles_Chesnutt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11057#The-Wife-of-his-Youth-and-Other-Stories-of-the-Color-Line-and-Selected-Essays
 gutenberg_bookshelf: African American Writers
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
